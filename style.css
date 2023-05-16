@@ -1,0 +1,29 @@
+#self{
+    height:20px;
+    width:50px;
+    background-color:rgb(220, 174, 36);
+}
+
+#footer{
+    margin-top:200px;
+}
+
+body{
+    background-color:rgb(153, 229, 47);
+}
+
+h4{
+    font-weight:600;
+    color:blueviolet;
+    font-size:20px;
+    text-decoration:underline;
+    text-decoration-color:blueviolet;
+}
+
+#camera,#result1,#result2,#result3{
+    height:400px;
+    width:500px;
+    border-width:2px;
+    border-style:ridge;
+    border-color:black;
+}
